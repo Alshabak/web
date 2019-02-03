@@ -1,0 +1,387 @@
+/*******body/style***********/
+body
+{
+/*background-color:#D4EFDF;*/
+background-image: url(back.JPG);
+background-size:cover;
+background-repeat: no-repeat;
+background-position:center;
+background-attachment: fixed;
+
+   }
+ /********************************/
+ 
+/**************logo /style*********************************/
+
+.logoisa
+{
+	color:#F7E57D/*rgb(10,20,70)*/;
+
+/*orange;#1C8E2E;*/
+font-size:65pt;
+padding-top: 0px;
+font-weight: bolder;
+				 }
+.anothername
+{
+		color:/*rgb(40,20,10)*/#000;
+
+	font-size:30pt;
+/*	color:#09196E;*/
+
+font-weight: xx-small;
+					padding-top: 0px;
+
+						}
+
+/****horizantal line after logo********/
+hr
+{
+	color: #980239;
+	width: 100%;
+	border:1px solid #491918;
+								}
+
+/****************************form/style**************************/
+
+form
+{
+color: black;
+display: inline-block;
+						
+							}
+
+
+/******put your information******/
+
+#firstfieldset
+{
+border-color:#073D0F;
+border-style:dotted;
+background-color:#E3DDE2/*#EFF9FC*/;
+width: 100%;
+padding:10px;
+margin:75px;
+margin-top:9px;	
+							}
+
+/******************put information/dotts*********************************/
+.legend1style
+{
+font-size: 25pt;
+font-family:monospace;
+color:#060D43 ;
+border-width: 3px;
+border-color: /*#CD5C5C*/#8C0D0A;
+padding-bottom: 10px;
+margin-bottom: 30px;
+border-style:outset; ;
+background-color:#E9967A/*#F7A48C*/;
+padding: 7px;
+padding-left: 8px;								}
+
+/************************************************/								}
+
+fieldset 
+{
+margin-bottom: 15px;
+padding-bottom: 15px;
+background-color:#333;/*#B2BABB*/
+border-style: outset;
+border-color: #B2BABB;
+
+
+									
+											}
+/*****************background for every fieldset*********************/
+/*****personal profile*****/
+#pp
+{
+background-color:#EFE9CF;
+
+}
+
+/****education*****/
+#ed
+{
+background-color:#CCC9CC;
+
+}
+
+/*****experiences*****/
+#ex
+{
+background-color:#ABC3BF;
+
+}
+/*****lang****************/
+#lang
+{
+background-color:/*#FFF9FF*/#C4C3C5;
+
+}
+/*****skills*****/
+#skill{
+background-color:#F5C682/*#AAB8AC*/;
+}
+
+/*****hoppies*****/
+#hob
+{
+background-color:#BCC2AA;
+/*#D4FEFD;*/
+
+}
+
+/********vol**********/
+#vol
+
+	{
+background-color:#CFE5EF;
+
+}
+/*****referances*****/
+#ref
+{
+background-color:/*rgb(60,50,30)*/#F7C5CB;
+/*#BFE9CF*/;
+
+}
+
+/*****about your self*****/
+#you
+{
+background-color:#115552;
+
+
+}
+
+
+
+/*******every legend/personal/education************/
+legend 
+
+{
+padding-bottom: 10px;
+font-family: monospace;
+font-size:16pt; 
+border-style: outset;
+border-color: #0C4F3A;
+border-width:4px; ;
+background-color:#CFAE7C;
+color:black; 
+margin:5px 
+padding:15px;
+margin-bottom: 20px; 
+								}
+
+/*****************paragraph/style**************************/
+p
+{
+color: black;
+font-size: 20pt;
+font-family:initial;
+padding-bottom: 5px;
+								}
+
+/*****************input field**************************************/
+.input1
+{
+color:#1C8B8E;
+width: 260px;
+height: 15px;
+padding: 10px;
+margin: 5px;
+border: 3px solid ;
+border-color:#380C68;/*rgb(150,100,198);*/
+border-style: outset; 
+text-align:left;
+font-family:monospace;
+font-size:12pt ;
+display: inline-block;
+
+														}
+
+/*****************radio button gender*************************/
+#r1
+{
+padding: 2px;
+margin-bottom: 5px;
+display:inline-table;
+text-align: left;
+color:rgb(50,40,90);
+font-size: 14pt;
+font-family:monospace;
+													}
+
+/*****upload image/personal profile**********/
+#im1
+{
+color:#333;
+padding: 10px;
+margin: 5px;
+text-align: left;
+font-family:monospace;
+font-size:12pt ;
+display: inline-block;
+
+															}
+
+/******date of birth /personal profile***********/
+#dob
+{
+width: 123px;
+height: 15px;
+padding: 10px;
+margin: 5px;
+text-align:left;
+font-family:monospace;
+font-size:12pt ;
+	
+/******social status***********/															}
+#select1
+{
+border: 3px solid ;
+border-color:#380C68;
+border-style: outset;
+color:#638C0A;
+font-family:monospace;
+font-size:12pt ;
+width: 150px;
+height:40px;
+margin:7px;
+padding:2px;										
+												}
+
+/*****************graduation**********************************/
+
+#grad
+{
+font-family:monospace;
+font-size: 14pt;
+color: black;											}
+/*****graduate date*******/
+#grad1
+{
+width: 148px;
+font-family:monospace;
+font-size: 12pt;
+											}
+
+/*************************experiences*******************************/
+#dateworkfrom
+{
+width: 210px;
+height: 15px;
+text-align:left;
+font-family:monospace;
+font-size:12pt ;
+padding: 10px;
+
+							}
+
+#dateworkto
+{
+width: 218px;
+height: 15px;
+text-align:left;
+font-family:monospace;
+font-size:12pt ;
+padding: 10px;
+padding-left: 3px;
+							}
+
+
+			#fromto
+			{
+				font-size: 14pt;
+				font-family: monospace;
+				color: black;
+			}		
+
+
+#fromto2
+			{
+				font-size: 14pt;
+				font-family: monospace;
+				color: black;
+				padding-left: 20px;
+				color:#1C8B8E;
+				padding-left: 20px;
+padding-bottom: 20px;
+			}	
+
+/**************yourself**********************************/			
+.textarea1
+{
+color:#1C8B8E;
+padding: 10px;
+margin: 5px;
+border: 3px solid ;
+border-color:#380C68;/*rgb(150,100,198);*/
+border-style: outset; 
+text-align:left;
+font-family:monospace;
+font-size:12pt ;
+display: inline-block;
+
+
+}
+/*************all*****************************/
+#all
+{
+	color:#04062F;
+font-family: monospace;
+font-style: oblique;
+font-size: 13pt;
+text-align: center;
+font-weight: bolder;
+
+
+}
+/***********submit/bottun************/
+.sub
+{
+color:#1C8B8E;
+width: 220px;
+height: 50px;
+padding: 10px;
+margin: 5px;
+
+border: 3px solid ;
+border-color:#380C68;/*rgb(150,100,198);*/
+border-style: outset; 
+text-align:center;
+font-family:monospace;
+font-size:16pt ;
+display: inline-block;
+margin-right:60%;
+}
+/******************************************/
+
+/*ul{
+	display:inline-flex;
+	font-size: 15pt;
+	font-family: monospace;
+	float: right;
+	padding:10px 7px;
+	margin:7px;
+	list-style: none;
+
+}
+a
+{
+color:rgb(1,1,1);
+text-decoration: none;
+display: inline;
+
+                                                                     }
+************************************ANCHOR DECORATIONS****************************************
+a:hover
+{
+color: white;
+font-family: sans-serif;
+font-family: 10pt;
+direction: none;
+text-decoration: overline;
+}*/

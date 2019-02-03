@@ -1,0 +1,168 @@
+/*************Body style*****************************/
+body
+{
+/*background-color: rgb(10,25,40);*/
+font-size:20pt ;
+color:rgb(185,100,50);
+background-image:url(s.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+background-position:all;
+                                           }
+
+/***********IS.A LOGO Style******************/
+#zero
+{color:rgb(0,0,0);
+
+           font-size:50pt;
+
+/*font-weight: bold;*/
+                                                       }
+
+/*****************************Paragraph include name islam alshabak***************************/
+p
+{
+	color:rgb(185,100,50);
+
+	font-size: 25pt;
+                                                  }
+
+/***********************************************DIV ONE **************************************************/
+#one
+ {
+margin-bottom: 120px;
+                                                                        }
+
+/***********************************************************LIST STYLE MENUE**************************/
+
+ul
+{
+	display:inline-flex;
+	font-size: 15pt;
+	font-family: monospace;
+	float: right;
+	padding:10px 7px;
+	margin:2px;
+	list-style: none;
+	margin-top:3px; 
+	padding-top: 0px;
+
+                                                                  }
+/********************************************LINKS MENUE STYLE/UL********************************/
+a
+{
+color:rgb(200,80,50);
+text-decoration: none;
+display: inline;
+
+                                                                     }
+/**************************************ANCHOR DECORATIONS*****************************************/
+a:hover
+{
+color: rgb(0,0,200);
+font-family: sans-serif;
+font-family: 10pt;
+direction: none;
+text-decoration: overline;
+                                             }
+
+/***************************LIST ITEM STYLE IN MENUE****************************************/
+li a
+{
+padding: 5px 10px;
+                                       }
+
+/******************AUTHOR NAME @DESIGNER IS ISLAM ALSHABAK_2018**********************************/
+.year
+{
+text-align: center;
+color: rgb(60,10,10);
+font-size: 18pt;
+text-decoration-line:unset;
+
+                                       }
+
+/**********************FORM STYLE *****************************************/
+form
+ {
+text-align: center;
+
+                               }
+
+/********************TEXT & PASSWORD INPUTS **********************************/
+input
+{
+border-style: outset;
+border-width: 8px;
+border-color: rgb(150,100,100);
+/**spaces between input boxes username & password **/
+margin-bottom:25px ;
+/************SPACES INSIDE INPUT BOX FROM LEFT*********************************/
+padding-left:5px;
+/************SPACES INSIDE INPUT BOX FROM TOP*********************************/
+padding-top: 6px;
+/************SPACES INSIDE INPUT BOX FROM BOTTOM*********************************/
+padding-bottom: 6px;
+/***********************************************************/
+text-align: center;
+/************FONT-SIZE INSIDE INPUT BOX*********************************/
+font-size:16pt;
+/************COLOR INSIDE INPUT BOX*********************************/
+color: rgb(0,120,195);
+/*****************margen space from right****************************/                                  
+  margin-right: 250px;
+                                                 }
+
+/***********DIV 2 IS FORM 1 INCLUDETEXT ,PASSWORD & TWO BUTTONS*******************************/
+#two
+ {
+text-align: center;
+
+                                       }
+
+/*************************************************************************************************/
+.button1
+
+{
+	border-width:5px ;
+	margin-left: 5px;
+	border-top-style: ridge;
+	padding-bottom: 8px;
+		padding-top: 8px;
+	padding-right: 10px;
+	padding-left: 10;
+	margin-left: 1px;
+	margin-bottom: 8px;
+/*background-color: rgb(60,10,10);	*/
+border-color: rgb(70,10,10);
+border-style: outset;
+	font-family: serif;
+	font-size: 20pt;
+	text-align: left;
+	color:rgb(70,10,10);
+	margin-left: 5px;
+}
+	/******************************************/
+	/*.button2
+
+{
+	border-width:5px ;
+	margin-left: 5px;
+	color:rgb(70,10,10);
+	border-top-style: ridge;
+	padding-bottom: 8px;
+	margin-right: 5px;
+	padding-right: 3px;
+	margin-left: 1px;
+	margin-bottom: 8px;
+//background-color: rgb(60,10,10);	
+border-color: rgb(70,10,10);
+border-style: outset;
+	font-family: serif;
+	font-size: 20pt;
+		margin-right: 500px;
+text-align: center;
+
+	}
+
+*/

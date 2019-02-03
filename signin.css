@@ -1,0 +1,39 @@
+form 
+{
+display: block;
+
+}
+
+
+
+
+#email
+{
+border-width: 2px;
+border-style: outset;
+border-color:#B9530C ;
+font-family:Comic Sans MS;
+font-size: 14px;
+font-weight: bold;
+color:#E5E5E5 ;
+size: 170px;
+}
+
+
+#con
+{
+border-width: 1px;
+border-style: outset;
+border-color:#B9530C ;
+font-family:Helvetica ;
+font-size: 14px;
+color:#DEC737;
+size: 150px;
+
+}
+
+.needhelp
+{
+list-style-type:5s infinite;
+
+}

@@ -1,0 +1,93 @@
+body{
+background-image: url(background.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position: center;
+background-size: cover;
+
+}
+
+ul il
+{
+	display:inline;
+	padding:3px;
+	margin: 3px;
+	padding-right: 50px;
+}
+a
+{
+	color:white ;
+	text-decoration: none;
+	color: white;
+	text-align: right;
+	padding:1px;
+
+}
+a:hover
+{
+color:#AF131F;
+direction:rtl
+text-decoration:overline;
+
+}
+
+.inpu1
+{
+width: 250px;
+height: 40px;
+color: white;
+background-color:#4E4E50 ;
+background-attachment: fixed;
+border-style: outset;
+border-color: #151516;
+
+}
+.p1
+{
+color: white;
+font-weight: bold;
+text-align: center;
+}
+
+
+#sp1 img
+{
+width:35px;
+height:35px;
+direction: rtl;
+
+
+
+}
+
+
+
+/**********************************/
+#email
+{
+border-width: 2px;
+border-style: outset;
+border-color:#B9530C ;
+font-family:Comic Sans MS;
+font-size: 14px;
+font-weight: bold;
+color:#E5E5E5 ;
+}
+
+
+#con
+{
+border-width: 1px;
+border-style: outset;
+border-color:#B9530C ;
+font-family:Helvetica ;
+font-size: 14px;
+color:#DEC737;
+
+}
+
+.needhelp
+{
+list-style-type:5s infinite;
+
+}

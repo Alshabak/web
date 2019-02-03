@@ -1,0 +1,44 @@
+#div1
+{
+border:2px solid #333;
+width: 
+color:#000;
+text-align:left;
+word-spacing:2px;
+letter-spacing: 2px;
+background-color:grey;
+background-color: #ECE9E9;
+padding: 15px;
+margin: 5px;
+	
+													}
+
+#img1{
+
+
+	width: 200px;
+	height: 190px;
+
+}
+
+.p1
+{
+	color: #1D0454;
+background-color: #94AA9F;
+font-weight: bold;
+padding: 10px;
+margin: 5px;
+
+
+}
+
+
+
+.span1
+{
+color:white;
+font-family: monospace;
+font-size: 18pt;
+background-color:#5390BD;
+
+}
